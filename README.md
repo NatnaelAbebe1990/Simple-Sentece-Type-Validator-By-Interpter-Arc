@@ -1,0 +1,1 @@
+# Simple-Sentece-Type-Validator-By-Interpter-Arc
