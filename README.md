@@ -1,4 +1,4 @@
-# Simple-Sentece-Type-Validator-By-Interpter-Arc
+# Simple-Sentece-Type-Validator-By-Interpter-Arc by Natnael Abebe
 *I choose Interpreter Architecture Pattern. This pattern is used for designing a component that interprets programs written in a dedicated language.
  It mainly specifies how to evaluate lines of programs, known as sentences or expressions written in a particular language.
  It contains one interface (in my case Interpreter.java) to interpret the context given and a class which implements this interface (in my case GrammerChecker.java).
